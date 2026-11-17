@@ -65,4 +65,16 @@ This project is intended to be released as open-source hardware. The upstream op
 
 ## Team
 
-Neurotech@Berkeley, Fall 2026. Project managers: Jacob Shahatit, Sean Isomatsu. Client: NeurotechX (Morgan Hough).
+Neurotech@Berkeley, Fall 2026 · Client: NeurotechX (Morgan Hough)
+
+**Project Managers**
+
+- Jacob Shahatit
+- Sean Isomatsu
+
+**Consultants**
+
+- Kabeer Nayyar
+- Anirudh Iyengar
+- Roberto Buendia
+- Max Armstrong
